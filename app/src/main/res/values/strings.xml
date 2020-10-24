@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinKeduaIntent</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="pindah_dataActivity">Pindah Dengan Data</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="data_diterima">Data Diterima</string>
+    <string name="ini_pindah">Ini Pindah Activity</string>
+
+</resources>
